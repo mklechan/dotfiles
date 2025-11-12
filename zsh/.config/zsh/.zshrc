@@ -236,6 +236,7 @@ alias lg="lazygit"
 # Other aliases
 # ------------------------------------------------------------------------------
 alias n="nvim"
+alias vi="nvim"
 alias k="kubectl"
 alias kg="kubectl get"
 alias kgp="kubectl get pods"
