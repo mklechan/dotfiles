@@ -1,0 +1,35 @@
+[General]
+LastTargetDir[$e]=smb://Mark Chan@diskstation/homes/Mark Chan/Downloads
+LastUsedVersion=210800
+ThumbnailBarIsVisible=true
+
+[ImageView]
+ThumbnailSplitterSizes=290,76
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=smb://Mark Chan@diskstation/homes/Mark Chan/Downloads/walls/centered/a_video_game_of_a_video_camera.jpg
+File10[$e]=$HOME/Downloads/df_source_images/IMG_4962.HEIC
+File2[$e]=smb://Mark Chan@diskstation/homes/Mark Chan/Downloads/walls/centered/a_white_background_with_black_text.jpg
+File3[$e]=smb://Mark Chan@diskstation/homes/Mark Chan/Downloads/walls/centered/a_white_circle_with_black_text.jpg
+File4[$e]=smb://Mark Chan@diskstation/homes/Mark Chan/Downloads/walls/centered/a_window_in_a_room.jpg
+File5[$e]=smb://Mark Chan@diskstation/homes/Mark Chan/Downloads/walls/centered/a_window_with_trees_in_the_background.jpg
+File6[$e]=smb://Mark Chan@diskstation/homes/Mark Chan/Downloads/walls/centered/a_yellow_and_blue_sphere.png
+File7[$e]=smb://Mark Chan@diskstation/homes/Mark Chan/Downloads/walls/centered/an_astronaut_standing_on_a_rock.png
+File8[$e]=smb://Mark Chan@diskstation/homes/Mark Chan/Downloads/walls/centered/the_earth_in_space.jpeg
+File9[$e]=$HOME/Downloads/Screenshot 2026-02-08 at 10-59-03 Light Grey Nubuck Slim Strap – Delugs.png
+Name1[$e]=a_video_game_of_a_video_camera.jpg
+Name10[$e]=IMG_4962.HEIC
+Name2[$e]=a_white_background_with_black_text.jpg
+Name3[$e]=a_white_circle_with_black_text.jpg
+Name4[$e]=a_window_in_a_room.jpg
+Name5[$e]=a_window_with_trees_in_the_background.jpg
+Name6[$e]=a_yellow_and_blue_sphere.png
+Name7[$e]=an_astronaut_standing_on_a_rock.png
+Name8[$e]=the_earth_in_space.jpeg
+Name9[$e]=Screenshot 2026-02-08 at 10-59-03 Light Grey Nubuck Slim Strap – Delugs.png
+
+[SideBar]
+InformationSplitterSizes=212,245

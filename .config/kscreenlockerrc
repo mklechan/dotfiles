@@ -1,0 +1,10 @@
+[Daemon]
+Timeout=10
+
+[Greeter]
+WallpaperPlugin=org.kde.potd
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/MilkyWay/
+PreviewImage=file:///usr/share/wallpapers/MilkyWay/
+SlidePaths=/home/markc/.local/share/wallpapers/,/usr/share/wallpapers/

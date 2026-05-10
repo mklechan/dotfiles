@@ -1,0 +1,16 @@
+[Common]
+CornerRadius=12
+OutlineCloseButton=true
+ShadowStrength=51
+
+[Style]
+DolphinSidebarOpacity=69
+DolphinViewOpacity=69
+MenuBarOpacity=73
+MenuOpacity=69
+TabBarOpacity=75
+ToolBarOpacity=74
+
+[Windeco]
+ButtonSize=ButtonVeryLarge
+DrawBackgroundGradient=true
